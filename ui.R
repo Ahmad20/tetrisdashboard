@@ -1,4 +1,4 @@
-source("function.R")
+$source("function.R")
 shinyUI(
   dashboardPage(
     
