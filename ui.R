@@ -1,3 +1,4 @@
+source("function.R")
 shinyUI(
   dashboardPage(
     
