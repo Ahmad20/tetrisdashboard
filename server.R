@@ -1,4 +1,4 @@
-source("function.R")
+#source("function.R")
 shinyServer(function(input, output, session) {
   output$nshop <- renderInfoBox({
     
