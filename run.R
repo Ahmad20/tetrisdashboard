@@ -4,7 +4,7 @@ library(shinydashboardPlus)
 library(tidyverse)
 library(plotly)
 library(europepmc)
-source("function.R")
+#source("function.R")
 ### Default shop list
 shop_list <- c("nestle.official.store", "indofooddapurcitarasa", 
                "unileverindonesia", "wingsofficialshop", "pgofficialstore")
